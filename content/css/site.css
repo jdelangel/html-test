@@ -15,3 +15,14 @@ body{
 .logo{
     color:#007bff;    
 }
+
+.item_navbar{
+    border: solid 1px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.item_navbar ul{
+    flex:auto;
+}
